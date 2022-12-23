@@ -1,6 +1,6 @@
 import sys
 
-OPPONENT_ROCK = 'A'
+OPPONENT_ROCK = 'A' 
 OPPONENT_PAPER = 'B'
 OPPONENT_SCISSORS = 'C'
 
